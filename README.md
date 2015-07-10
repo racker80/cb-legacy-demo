@@ -19,8 +19,8 @@ Once all dependencies are installed, begin development with the following
 commands:
 
 ```
-$ git clone https://github.com/rackerlabs/canon-bootstrap
-$ cd canon-bootstrap
+$ git clone https://github.com/racker80/cb-legacy-demo
+$ cd cb-legacy-demo
 $ npm install
 $ npm start
 ```
