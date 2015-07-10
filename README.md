@@ -1,4 +1,4 @@
-# canon-bootstrap
+# canon-bootstrap canon-legacy demo
 
 [![Build Status](http://img.shields.io/travis/rackerlabs/canon-bootstrap/master.svg)](https://travis-ci.org/rackerlabs/canon-bootstrap)
 
@@ -8,23 +8,6 @@ to match Canon. The API should not be considered stable until v1.0 is released.*
 
 Canon Bootstrap is a theme for [Twitter Bootstrap](http://getbootstrap.com)
 based on [Canon](http://rackerlabs.github.io/canon/)'s visual design.
-
-## Getting Started
-
-Quickly install canon-bootstrap using Bower:
-
-- bower: `bower install canon-bootstrap`
-
-The installed package includes the entire Bootstrap source, Glyphicons, and all
-theme-specific customizations. We provide compiled CSS (`canon-bootstrap.css`)
-along with minified CSS (`canon-bootstrap.min.css`).
-
-## Contributing
-
-Have a bug or feature request? The [issue tracker](https://github.com/rackerlabs/canon-bootstrap/issues)
-is the preferred channel for discussing bugs and feature requests. Additionally,
-feel free to come chat with us in `#canon-dev` on `irc.freenode.net`. For more
-information about contributing, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Developing
 
