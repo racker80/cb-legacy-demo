@@ -10,7 +10,7 @@ Inside of that initial bootstrap based markup, you will see Canon markup buildin
 
 Inside of that, you will see canon-bootrap again, being used for faceting and a table list.  This demonstrates that you can use Canon-bootstrap inside Canon.
 
-## Developing
+## Installing and running the demo
 
 Canon Bootstrap requires the following dependencies:
 
