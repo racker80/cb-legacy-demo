@@ -12,7 +12,7 @@ Inside of that, you will see canon-bootrap again, being used for faceting and a 
 
 ## Installing and running the demo
 
-Canon Bootstrap requires the following dependencies:
+canon-bootstrap canon-legacy demo requires the following dependencies:
 
 - Node.js v0.10 or higher
 
